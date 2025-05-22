@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Alice Derm",
+    "specialty": "Dermatology",
+    "available_slots": ["2024-05-23T13:00", "2024-05-23T15:30"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ben Skinner",
+    "specialty": "Dermatology",
+    "available_slots": ["2024-05-23T14:00", "2024-05-23T16:00"]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Clara Heart",
+    "specialty": "Cardiology",
+    "available_slots": ["2024-05-24T10:00", "2024-05-24T11:30"]
+  }
+]

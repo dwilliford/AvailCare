@@ -1,5 +1,3 @@
-# backend/app/api/endpoints.py
-
 from fastapi import APIRouter
 from app.services.ai import parse_user_intent
 
